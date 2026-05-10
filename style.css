@@ -1,0 +1,199 @@
+/* Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap');
+
+body {
+    font-family: 'Inter', sans-serif;
+    color: #4a4a4a;
+}
+
+/* Green accents */
+.text-success {
+    color: #20C976 !important;
+}
+
+.bg-success {
+    background-color: #20C976 !important;
+}
+
+.btn-success {
+    background-color: #20C976;
+    border-color: #20C976;
+}
+
+.btn-success:hover {
+    background-color: #1ab066;
+    border-color: #1ab066;
+}
+
+.btn-outline-success {
+    color: #88929e;
+    border-color: #20C976;
+}
+
+.btn-outline-success:hover {
+    color: #fff;
+    background-color: #20C976;
+    border-color: #20C976;
+}
+
+/* Pill buttons specific styles */
+.course-pill {
+    font-size: 0.85rem !important;
+    padding: 0.35rem 1rem !important;
+    border-width: 1px !important;
+}
+
+.fs-7 {
+    font-size: 0.9rem;
+}
+
+/* Topbar */
+.topbar {
+    background-color: #ffffff;
+}
+
+.topbar .border-start {
+    border-color: #e0e0e0 !important;
+}
+
+/* Navbar */
+.navbar-brand {
+    color: #0c1b33 !important;
+    font-weight: 800;
+}
+
+.nav-link {
+    color: #333 !important;
+    font-size: 1.05rem;
+}
+
+.nav-link:hover,
+.nav-link:focus {
+    color: #20C976 !important;
+}
+
+.dropdown-toggle::after {
+    display: inline-block;
+    content: '\f107';
+    font-family: 'Font Awesome 6 Free';
+    font-weight: 900;
+    border: none;
+    vertical-align: middle;
+    margin-left: 0.4em;
+    font-size: 0.85em;
+}
+
+/* Hero Section */
+.hero-section {
+    padding-top: 80px;
+}
+
+.hero-content h6 {
+    letter-spacing: 1px;
+}
+
+.hero-content h1 {
+    color: #0c1b33;
+    font-weight: 800;
+    line-height: 1.2;
+}
+
+/* Search Box */
+.search-box input:focus {
+    outline: none;
+    box-shadow: none;
+}
+
+.floating-card {
+    position: absolute;
+    bottom: 5%;
+    right: 0;
+    box-shadow: 0 15px 40px rgba(0, 0, 0, 0.06);
+    width: auto;
+}
+
+/* Image  */
+.people-img-container {
+    position: relative;
+}
+
+/* RESPONSIVENESS */
+
+@media (max-width: 1199px) {
+    .floating-card {
+        transform: translateY(20%);
+    }
+}
+
+@media (max-width: 991px) {
+    .hero-content {
+        text-align: center;
+        padding-right: 0 !important;
+    }
+    
+    .hero-content .decor-book,
+    .hero-content svg.position-absolute {
+        display: none; 
+    }
+
+    .hero-content h6 {
+        margin-top: 20px !important;
+    }
+
+    .search-box {
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .popular-courses {
+        justify-content: center;
+    }
+
+    .floating-card {
+        position: relative;
+        transform: translateY(-20px);
+        width: 90%;
+        margin: 0 auto;
+        border-radius: 20px;
+    }
+    
+    .people-img-container {
+        margin: 0 auto;
+    }
+}
+
+@media (max-width: 767px) {
+    .hero-content h1 {
+        font-size: 2.8rem;
+    }
+    .hero-content p {
+        font-size: 1.2rem !important;
+    }
+    .floating-card {
+        padding: 20px;
+        flex-direction: column;
+        text-align: center !important;
+    }
+    .floating-card .icon-l-shape {
+        margin-right: 0 !important;
+        margin-bottom: 15px;
+    }
+    .floating-card h5 {
+        font-size: 1rem !important;
+    }
+    .floating-card p {
+        font-size: 0.9rem !important;
+    }
+}
+
+@media (max-width: 575px) {
+    .hero-content h1 {
+        font-size: 2.2rem;
+    }
+    .navbar-brand {
+        margin-right: 0 !important;
+    }
+    .floating-card {
+        width: 100%;
+    }
+}
