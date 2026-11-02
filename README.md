@@ -40,8 +40,7 @@ MOLAB/
 ├── home.png         # Homepage image
 └── README.md        # Project documentation
 
----text
-
+```
 ## 💻 How to Run
 - Clone or download this repository.
 - Open the project folder.
