@@ -9,7 +9,7 @@ A responsive educational website homepage built using HTML, CSS, Bootstrap 5, an
 
 
 ## 🚀 Features
--Responsive navigation bar with dropdown menus
+- Responsive navigation bar with dropdown menus
 -Topbar with contact information
 -Hero section with heading and description
 -Course search box UI
@@ -42,10 +42,6 @@ MOLAB/
 -Open the project folder.
 -Make sure all required files and images are in the correct locations.
 -Open index.html in your browser.
-
-## 📱 Responsive Design
-
-The homepage is designed to work across desktop, tablet, and mobile screen sizes using Bootstrap's grid system and CSS media queries.
 
 ## 👩‍💻 Author
 
