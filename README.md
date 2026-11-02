@@ -38,7 +38,8 @@ MOLAB/
 
 ## 🖥️ Project Preview
 
-![MOLAB Homepage Preview](preview.png)
+![MOLAB Homepage Preview](<img width="960" height="415" alt="image" src="https://github.com/user-attachments/assets/64723a7b-9100-4d11-8de7-33b05e265193"/>)
+
 
 ## 📱 Responsive Design
 
