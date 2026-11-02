@@ -19,11 +19,13 @@ A responsive educational website homepage built using HTML, CSS, Bootstrap 5, an
 
 
 ## 🛠️ Technologies Used
--HTML5
--CSS3
--Bootstrap 5.3.2
--Font Awesome 6.4.2
--Google Fonts (Inter)
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/BOOTSTRAP%205-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/FONT%20AWESOME-528DD7?style=for-the-badge&logo=fontawesome&logoColor=white" />
+  <img src="https://img.shields.io/badge/GOOGLE%20FONTS-4285F4?style=for-the-badge&logo=googlefonts&logoColor=white" />
+</p>
 
 ## 📂 Project Structure
 
