@@ -36,6 +36,10 @@ MOLAB/
 -Make sure index.html, style.css, and home.png are in the correct locations.
 -Open index.html in your browser.
 
+## 🖥️ Project Preview
+
+![MOLAB Homepage Preview](preview.png)
+
 ## 📱 Responsive Design
 
 The homepage is designed to work across desktop, tablet, and mobile screen sizes using Bootstrap's grid system and CSS media queries.
