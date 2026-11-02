@@ -2,6 +2,10 @@
 
 A responsive educational website homepage built using HTML, CSS, Bootstrap 5, and Font Awesome. The design focuses on a clean and modern user interface with a green accent color, responsive navigation, and an attractive hero section.
 
+## 🖥️ Project Preview
+
+[MOLAB Homepage Preview](<img width="960" height="415" alt="image" src="https://github.com/user-attachments/assets/64723a7b-9100-4d11-8de7-33b05e265193"/>)
+
 ## 🚀 Features
 -Responsive navigation bar with dropdown menus
 -Topbar with contact information
@@ -36,9 +40,7 @@ MOLAB/
 -Make sure index.html, style.css, and home.png are in the correct locations.
 -Open index.html in your browser.
 
-## 🖥️ Project Preview
-
-![MOLAB Homepage Preview](<img width="960" height="415" alt="image" src="https://github.com/user-attachments/assets/64723a7b-9100-4d11-8de7-33b05e265193"/>)
+ 
 
 
 ## 📱 Responsive Design
