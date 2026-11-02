@@ -4,8 +4,10 @@ A responsive educational website homepage built using HTML, CSS, Bootstrap 5, an
 
 ## 🖥️ Project Preview
 
-<img width="947" height="186" alt="image" src="https://github.com/user-attachments/assets/947cbf77-9d48-41d4-9fcb-863b02e3548e" />
-<img width="946" height="402" alt="MOLAB Homepage Preview" src="https://github.com/user-attachments/assets/9f5c6be9-0278-4e0e-8f7b-412871051806" />
+<p align="center">
+  <img width="947" src="https://github.com/user-attachments/assets/947cbf77-9d48-41d4-9fcb-863b02e3548e" alt="MOLAB Navbar Preview" />
+  <img width="946" src="https://github.com/user-attachments/assets/9f5c6be9-0278-4e0e-8f7b-412871051806" alt="MOLAB Homepage Hero Preview" />
+</p>
 
 
 ## 🚀 Features
@@ -46,4 +48,5 @@ MOLAB/
 ## 👩‍💻 Author
 
 **Rukhsana Sultana Ritu**
+
 CSE Graduate | Aspiring Software QA Engineer
