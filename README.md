@@ -4,7 +4,9 @@ A responsive educational website homepage built using HTML, CSS, Bootstrap 5, an
 
 ## 🖥️ Project Preview
 
-<img width="960" alt="MOLAB Homepage Preview" src="https://github.com/user-attachments/assets/64723a7b-9100-4d11-8de7-33b05e265193" />
+<img width="947" height="186" alt="image" src="https://github.com/user-attachments/assets/947cbf77-9d48-41d4-9fcb-863b02e3548e" />
+<img width="946" height="402" alt="MOLAB Homepage Preview" src="https://github.com/user-attachments/assets/9f5c6be9-0278-4e0e-8f7b-412871051806" />
+
 
 ## 🚀 Features
 -Responsive navigation bar with dropdown menus
