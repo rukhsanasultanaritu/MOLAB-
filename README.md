@@ -10,14 +10,14 @@ A responsive educational website homepage built using HTML, CSS, Bootstrap 5, an
 
 ## 🚀 Features
 - Responsive navigation bar with dropdown menus
--Topbar with contact information
--Hero section with heading and description
--Course search box UI
--Popular course categories
--Floating information card
--Custom Google Font (Inter)
--Responsive layout for desktop, tablet, and mobile devices
--Custom CSS styling and hover effects
+- Topbar with contact information
+- Hero section with heading and description
+- Course search box UI
+- Popular course categories
+- Floating information card
+- Custom Google Font (Inter)
+- Responsive layout for desktop, tablet, and mobile devices
+- Custom CSS styling and hover effects
 
 ## 🛠️ Technologies Used
 <p align="left">
@@ -38,12 +38,12 @@ MOLAB/
 └── README.md
 
 ## 💻 How to Run
--Clone or download this repository.
--Open the project folder.
--Make sure all required files and images are in the correct locations.
--Open index.html in your browser.
+- Clone or download this repository.
+- Open the project folder.
+- Make sure all required files and images are in the correct locations.
+- Open index.html in your browser.
 
 ## 👩‍💻 Author
 
-Rukhsana Sultana Ritu
+**Rukhsana Sultana Ritu**
 CSE Graduate | Aspiring Software QA Engineer
