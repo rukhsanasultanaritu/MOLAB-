@@ -32,8 +32,6 @@ A responsive educational website homepage built using HTML, CSS, Bootstrap 5, an
 
 ## 📂 Project Structure
 
-## 📂 Project Structure
-
 ```text
 MOLAB/
 │
@@ -41,6 +39,8 @@ MOLAB/
 ├── style.css        # Custom CSS styling
 ├── home.png         # Homepage image
 └── README.md        # Project documentation
+
+---text
 
 ## 💻 How to Run
 - Clone or download this repository.
