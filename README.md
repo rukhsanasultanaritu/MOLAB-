@@ -12,3 +12,35 @@ A responsive educational website homepage built using HTML, CSS, Bootstrap 5, an
 -Custom Google Font (Inter)
 -Responsive layout for desktop, tablet, and mobile devices
 -Custom CSS styling and hover effects
+
+
+## 🛠️ Technologies Used
+-HTML5
+-CSS3
+-Bootstrap 5.3.2
+-Font Awesome 6.4.2
+-Google Fonts (Inter)
+
+## 📂 Project Structure
+
+MOLAB/
+│
+├── index.html
+├── style.css
+├── home.png
+└── README.md
+
+## 💻 How to Run
+-Clone or download this repository.
+-Open the project folder.
+-Make sure index.html, style.css, and home.png are in the correct locations.
+-Open index.html in your browser.
+
+## 📱 Responsive Design
+
+The homepage is designed to work across desktop, tablet, and mobile screen sizes using Bootstrap's grid system and CSS media queries.
+
+## 👩‍💻 Author
+
+Rukhsana Sultana Ritu
+CSE Graduate | Software QA Engineer
